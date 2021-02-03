@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Tushar's first web page!"
 date:   2021-01-06 20:26:37 +0530
 categories: jekyll update
