@@ -31,7 +31,7 @@ twitter_username: tusharsingla002
 instagram_username:  tusharsingla002
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
