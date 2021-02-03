@@ -32,7 +32,7 @@ facebook_username: tusharsingla002
 instagram_username:  tusharsingla002
 
 # Build settings
-theme: jekyll-theme-leap-day
+remote_theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
