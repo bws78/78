@@ -33,7 +33,6 @@ instagram_username:  tusharsingla002
 
 # Build settings
 remote_theme: jekyll-theme-time-machine
-remote_theme: time-machine
 plugins:
   - jekyll-feed
 
