@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello WORLD!"
+title:  "Hello Everyone!"
 date:   2021-01-07 00:24:37 +0530
 categories: jekyll update
 ---
-hlo world
+Hi, this is my first website.
