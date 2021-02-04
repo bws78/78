@@ -15,9 +15,7 @@ Hi, this is my first website.
      
      
  
-<form action="mailto:tusharsingla002@gmail.com" method="POST">
- Name  <input type="text"  name="name_attribute"> <button type="submit">Submit</button>
- </form>  
+<a href="http://forms.gle/64UrYVPc61Locxms7">contact me</a>
    
    
 
