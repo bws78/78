@@ -6,11 +6,11 @@ categories: jekyll update
 ---
 Hi, this is my first website.
 
-
+<a href="http://www.google.com"> 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png/1200px-Hello_Web_Series_%28Wordmark%29_Logo.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" /> </a>
      
      
-<a href="http://www.google.com"> google </a>     
+     
