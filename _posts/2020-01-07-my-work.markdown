@@ -5,3 +5,10 @@ date:   2021-01-07 00:24:37 +0530
 categories: jekyll update
 ---
 Hi, this is my first website.
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png/1200px-Hello_Web_Series_%28Wordmark%29_Logo.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
