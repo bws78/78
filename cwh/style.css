@@ -1,0 +1,15 @@
+.container{
+    max-width: 80%;
+}
+.container{
+    text-align: center;
+}
+.container{
+    background-color: blueviolet;
+}
+input,textarea{
+    width:80%;
+    margin:10px;
+}
+
+
