@@ -17,7 +17,7 @@ Hi, this is my first website.
  
 <a href="http://forms.gle/64UrYVPc61Locxms7">contact me</a><br>
 <a href="http://tushar002.rf.gd">contact me with my form</a><br>
-<a href="http://wa.me/+919914733560?text=hello">WhataApp me</a>
+<a href="http://wa.me/+919914733560?text=hello">WhatsApp me</a>
    
    
 
