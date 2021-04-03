@@ -34,7 +34,7 @@ instagram_username:   About_krish
 
 # Build settings
 
-theme: minima
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
