@@ -35,6 +35,7 @@ instagram_username:   About_krish
 # Build settings
 
 remote_theme: broccolini/swiss
+theme_color: magenta
 plugins:
   - jekyll-feed
 
