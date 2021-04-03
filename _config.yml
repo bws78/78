@@ -18,24 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: my first project
-email: tusharsingla002@gmail.com
+title: Bharat Wools store
+email: krish_mangla04@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, This is Tushar Singla's repository. I am a student at NIT Jalandhar (B.tech Electrical Engineering). I am working on building web pages.
-  That's why I create this web page. 
+  Hey, this is wool's store. We have premium quality wool. Each and every colour will be provided on demand. 
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
-baseurl: "/project" # the subpath of your site, e.g. /blog
+baseurl: "/78" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tusharsingla002
-facebook_username: tusharsingla002
+twitter_username: About_krish
+facebook_username:  About_krish
 
-instagram_username:  tusharsingla002
+instagram_username:   About_krish
 
 # Build settings
 
-remote_theme: broccolini/swiss
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -58,4 +57,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
