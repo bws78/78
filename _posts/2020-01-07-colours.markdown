@@ -1,7 +1,7 @@
 ---
 layout: post
 title: colours
-date:2021-01-07 00:24:37
+date: 2021-01-07 00:24:37
 categories: jekyll update
 ---
 hi
